@@ -1,5 +1,7 @@
 # Hi there, I'm Hoang Ha👋
-🔭 I’m currently learning everything 🤣<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently learning everything 🤣
+<br>🎓 I aspire to become a full-stack developer, eager to master both front-end and back-end technologies for comprehensive web development. 
+<br>⚡ Fun fact: Besides coding, I love to play football, jogging, and listen to music 🎧
 
 
 # My Skills:
