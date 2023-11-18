@@ -8,7 +8,7 @@
 # 🤝🏻 Connect with Me
 <a href="https://www.facebook.com/HA58.PROTT/" target="_blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/hoangha.2305/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:Hoangha2352@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTHVhRgBlGWfNGhNSlTWxzslBQPCbKMnXdFbjdXDJvfGdMXsfqVVkRLMrnGFfntMHqMPmg"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 # My Skills:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
