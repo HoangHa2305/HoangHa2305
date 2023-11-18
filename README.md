@@ -1,5 +1,5 @@
 # Hi there, I'm Hoang Ha👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=SAI&vCenter=SAI&repeat=%C4%90%C3%9ANG+V%E1%BA%ACY&random=SAI&width=1000&lines=Student+at+VIET+NAM+-+KOREA+UNIVERSITY+OF+INFORMATION+AND+COMMUNICATION+TECHNOLOGY;I+am+Web+Backend+Developer+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=1000&lines=Student+at+VIET+NAM+-+KOREA+UNIVERSITY+OF+INFORMATION+AND+COMMUNICATION+TECHNOLOGY;I+am+backend+Web+application+developer" alt="Typing SVG" /></a>
   
 # I'm a Student and Developer
 - 🔭 I’m currently learning everything 🤣
